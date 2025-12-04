@@ -1,0 +1,6 @@
+       01  WRK-ARQCRM-REGISTRO.
+           05 WRK-ARQCRM-ID            PIC X(04)  VALUE SPACES.
+           05 WRK-ARQCRM-NOME          PIC X(25)  VALUE SPACES.
+           05 WRK-ARQCRM-EMAIL         PIC X(30)  VALUE SPACES.
+           05 WRK-ARQCRM-TELEFONE      PIC X(14)  VALUE SPACES.
+           05 WRK-ARQCRM-STATUS        PIC 9(01)  VALUE ZERO.
